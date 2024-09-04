@@ -226,7 +226,7 @@
 
 - https://github.com/devanshbatham/ParamSpider - Mining parameters from dark corners of Web Archives
 
-- https://github.com/s0md3v/Arjun - 💗
+- https://github.com/s0md3v/Arjun - **
 
 - https://github.com/Cillian-Collins/dirscraper - Directory lookup from Javascript files
 
