@@ -53,13 +53,13 @@
 
 - https://github.com/Cn33liz/MSBuildShell
 
-## Reverse Shellz
-
-- https://github.com/xct/xc
+## Reverse Shell
 
 - https://github.com/cytopia/pwncat
 
-- https://github.com/Kudaes/LOLBITS 
+- https://github.com/Kudaes/LOLBITS
+
+- https://github.com/xct/xc
 
 ## Powershell Scripts
 
