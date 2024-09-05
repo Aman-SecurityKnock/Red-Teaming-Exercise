@@ -1,6 +1,7 @@
 
 # Red-Team-Operations
 
+![red-team-operations](https://github.com/user-attachments/assets/42d40a04-9520-4d56-875e-3080746ce2f2)
 
 # Tools for Penetration Testing and Red Teams by Aman
 
